@@ -3,8 +3,7 @@ Tamika's coding ideas and resources
 
 Hey there!
 
-I'm Tamika Hayes, and as of 10/26/18, I'm embarking on a journey to become a software developer. My goal is to begin working on the Khan Academy Engineering team in 2019.
+I'm Tamika Hayes, and I'm an emerging software developer. As of March 2021, I'm a software engineering apprentice at Intuit, participating in the inaugural cohort of the Apprenticeship Pathway Program.
 
-I'm starting with the tiny goal of completing my first five pull requests for Hacktoberfest!
+Let the learning adventure begin!
 
-This is my personal Apollo mission.
